@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "HIGH QUALITY OPERATION THEATER",
+        "chief": "Torikul Islam",
+        "description": "An operating theater is a facility within a hospital where surgical operations are carried ... Higher temperatures increased subjective physical demand and frustration.",
+        "img": "https://i.ibb.co/0VPRP3P/services1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "EYE SERVICES",
+        "chief": "Imtiaz Shawon",
+        "description": "Over 20 Years' Experience. Convenient Clinic Bangladesh @ Barisal jhalakati. Enquire Today. Equipped With 3D Imaging For Visualization. Dedicated to Patient Care.",
+        "img": "https://i.ibb.co/7vR6LQr/Medicine-Hospital-Medical-Clinic-Ophtalmologist-Exam.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ONLINE SERVICES",
+        "chief": "Ashik Rhaman",
+        "description": "We are San Diego's original Family Physical Therapy Practice.Get the Help You Need Now · 100% Private Environment , We have specialties in: +1 619-475.",
+        "img": "https://i.ibb.co/XW0drWL/services3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DENTAL SERVICES",
+        "chief": "Mosiur Rhaman",
+        "description": "Find Dental Toronto. Unlimited Access. 100% Secure. Always Facts. Privacy Friendly. The Best Resources. Results & Answers. Types: Best Results, Explore Now.",
+        "img": "https://i.ibb.co/Jkg03Fd/services4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "GYNECOLOGY AND PEDIATRICS",
+        "chief": "Kamrul Hassan",
+        "description": "Paediatric and adolescent gynaecology is a special field of interest within general gynaecology and obstetrics. The care for children and young people differs from adults.",
+        "img": "https://i.ibb.co/cY2TVPH/services5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "NOSE EAR THROAT SERVICE",
+        "chief": "Ali Hossen",
+        "description": "Otolaryngology Conditions, Disorders & Treatment. Ear, nose and throat issues can reduce your quality of life and our doctors will make sure you understand.",
+        "img": "https://i.ibb.co/nsfB0nT/Be-positive-Attractive-female-keeping-smile-on-her-face-holding-her-neck-straight-looking-upwards.jpg"
+    }
+]

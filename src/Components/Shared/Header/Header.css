@@ -1,0 +1,9 @@
+.full-nav{
+    line-height: 60px;
+}
+.title:hover{
+ color: goldenrod;
+}
+.route:hover{
+    color: red;
+}
